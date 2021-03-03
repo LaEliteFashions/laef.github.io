@@ -8,24 +8,16 @@
 	>
 
 <channel>
-	<title>La Elite Fashions</title>
+	<title></title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Mon, 11 Jan 2021 19:55:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Mar 2021 06:20:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6</generator>
-
-<image>
-	<url>./../wp-content/uploads/2021/01/cropped-LAE-logo-512-square-32x32.png</url>
-	<title>La Elite Fashions</title>
-	<link>./../index.html</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 </channel>
 </rss>
